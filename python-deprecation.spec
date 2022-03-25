@@ -6,7 +6,7 @@
 Summary:	A library to handle automated deprecations
 Name:		python-deprecation
 Version:	1.0.1
-Release:	5
+Release:	6
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/8c/e3/e5c66eba8fa2fd567065fa70ada98b990f449f74fb812b408fa7aafe82c9/deprecation-%{version}.tar.gz
