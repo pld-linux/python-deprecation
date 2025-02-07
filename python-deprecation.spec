@@ -5,12 +5,12 @@
 
 Summary:	A library to handle automated deprecations
 Name:		python-deprecation
-Version:	1.0.1
-Release:	7
+Version:	2.1.0
+Release:	1
 License:	Apache
 Group:		Libraries/Python
-Source0:	https://pypi.python.org/packages/8c/e3/e5c66eba8fa2fd567065fa70ada98b990f449f74fb812b408fa7aafe82c9/deprecation-%{version}.tar.gz
-# Source0-md5:	d8a318c66d442dc4b900e070267ed9aa
+Source0:	https://pypi.debian.net/deprecation/deprecation-%{version}.tar.gz
+# Source0-md5:	6b79c6572fb241e3cecbbd7d539bb66b
 URL:		https://pypi.python.org/pypi/deprecation
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
