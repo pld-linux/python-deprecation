@@ -6,7 +6,7 @@
 Summary:	A library to handle automated deprecations
 Name:		python-deprecation
 Version:	2.1.0
-Release:	2
+Release:	3
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/deprecation/deprecation-%{version}.tar.gz
